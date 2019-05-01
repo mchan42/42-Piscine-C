@@ -1,1 +1,1 @@
-# 42-stuffs
+# 42 Piscine C files
