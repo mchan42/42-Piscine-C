@@ -1,1 +1,1 @@
-# 42 Piscine C files
+# 42 Piscine C
